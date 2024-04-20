@@ -6,7 +6,8 @@ Creating “user stories” helps understand from the user's perspective what is
 
 How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
 
-I do this by ......
+I approach developing programs by first defining what the requirements are. If working with a client, I would arrange a meeting to understand what they want and write out the user stories. Then, begin the sprints and review process. If this is a program I am developing on my own, I would research first to see what data is available and what similar programs are out there. Next, I would write out user stories. The final step is to choose a story and begin developing it. In the future, I hope to incorporate SCRUM into my future development. I like how it brings together a team to collaborate on the project. 
+
 
 What does it mean to be a good team member in software development?
 
