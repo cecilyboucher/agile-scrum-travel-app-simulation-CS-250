@@ -11,4 +11,4 @@ I approach developing programs by first defining what the requirements are. If w
 
 What does it mean to be a good team member in software development?
 
-I do this by ......
+To be a good team member in software development involves having good communication skills, being adaptive, and engaging with team members. Communication is essential to keep the team on the same page with progress and/or any setbacks. It is important to be adaptive because clients may alter their ideas about a project or new technology may provide opportunities to improve development. Engaging with team members is an important skill because any errors or bugs that are found during development should be addressed immediately. 
