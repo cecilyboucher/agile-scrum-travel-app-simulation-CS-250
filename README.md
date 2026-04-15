@@ -1,14 +1,77 @@
-How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+# 🧭 SNHU Travel – Agile Software Development Lifecycle Project
 
-User needs are the requirements and expectations that a product or service should fulfill to provide value. You can understand user needs through in-person user interviews, online research, or surveys. In-person interviews help understand user perspectives and allow you to dig deeper into true needs. Online research can be conducted with academic papers, reports, and other published materials. Surveys allow users to answer questions anonymously and may allow for some to answer questions more honestly. 
-Creating “user stories” helps understand from the user's perspective what is required of a program and how it will provide value to the client. A story helps the team know what they are going to be building, what it should do, and why it is desired. 
+## 📊 Overview
+This project demonstrates the use of the Agile Scrum framework in the development of a conceptual application for SNHU Travel. The goal was to simulate a real-world software development environment by applying Scrum roles, ceremonies, and artifacts to guide the planning and iterative development of a customer-facing travel application.
 
+The project was completed in collaboration with ChadaTech, who is evaluating Agile as an alternative to the traditional waterfall development model.
 
-How do I approach developing programs? What agile processes do I hope to incorporate into my future development work?
+---
 
-I approach developing programs by first defining what the requirements are. If working with a client, I would arrange a meeting to understand what they want and write out the user stories. Then, begin the sprints and review process. If this is a program I am developing on my own, I would research first to see what data is available and what similar programs are out there. Next, I would write out user stories. The final step is to choose a story and begin developing it. In the future, I hope to incorporate SCRUM into my future development. I like how it brings together a team to collaborate on the project. 
+## ✨ Key Features
+- Agile Scrum-based project management simulation
+- Product backlog creation and user story development
+- Sprint planning and execution workflow
+- Role-based participation (Product Owner, Scrum Master, Developer, Tester)
+- Iterative development and continuous feedback cycles
+- Stakeholder communication and requirement refinement
 
+---
 
-What does it mean to be a good team member in software development?
+## 🛠️ Tools & Technologies Used
+- Agile / Scrum Framework
+- Azure DevOps
+- Jira
+- Skype / Webex (team communication)
+- Software Development Lifecycle (SDLC) concepts
 
-To be a good team member in software development involves having good communication skills, being adaptive, and engaging with team members. Communication is essential to keep the team on the same page with progress and/or any setbacks. It is important to be adaptive because clients may alter their ideas about a project or new technology may provide opportunities to improve development. Engaging with team members is an important skill because any errors or bugs that are found during development should be addressed immediately. 
+---
+
+## 🧠 Core Concepts Demonstrated
+- Agile methodology and Scrum ceremonies
+- Product backlog and user story creation
+- Sprint planning and retrospectives
+- Cross-functional team collaboration
+- Iterative development and adaptability
+- Stakeholder communication and requirement gathering
+- Testing and quality assurance in Agile environments
+
+---
+
+## 🎯 Project Roles & Responsibilities
+
+### 🧩 Product Owner
+Defined project requirements, created and prioritized user stories, and ensured alignment with stakeholder expectations through feedback and requirement gathering.
+
+### 🏃 Scrum Master
+Facilitated Agile ceremonies including sprint planning and daily standups, ensured team communication, and supported Agile process implementation.
+
+### 👨‍💻 Developer & Tester
+Contributed to system design and implementation planning while also developing test cases and ensuring quality through iterative testing and collaboration.
+
+---
+
+## 🔄 Agile Workflow Highlights
+- User stories were created based on client and end-user input
+- Sprint planning sessions were used to prioritize backlog items
+- Daily standups ensured transparency and progress tracking
+- Retrospectives were used to evaluate and improve team performance
+- Changes in requirements were incorporated iteratively without disrupting workflow
+
+---
+
+## 🎯 Project Outcome
+The Agile approach allowed the team to respond effectively to changing requirements, improve stakeholder collaboration, and maintain flexibility throughout development. The result was a structured and adaptable development process that demonstrated the advantages of Scrum over traditional waterfall methodology.
+
+---
+
+## 🚀 Future Improvements
+- Automate backlog tracking and sprint reporting
+- Introduce CI/CD pipeline simulation
+- Expand user story refinement with acceptance criteria templates
+- Improve sprint analytics and performance tracking
+
+---
+
+## 👩‍💻 Author
+**Cecily Boucher**  
+GitHub: https://github.com/cecilyboucher
